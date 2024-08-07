@@ -12,5 +12,4 @@ Meu nome é Pedro Henrique
 
   Discord: W4yne#7107
 
-![]()
-https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif
+ ![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
